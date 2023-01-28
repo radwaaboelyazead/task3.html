@@ -1,0 +1,45 @@
+h2{
+    width: 82%;
+    padding: 45px;
+    margin: 10px;
+    background-color: rgb(31, 212,70 );
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+.first{
+    width: 80%;
+    padding: 60px;
+    margin: 10px;
+    background-color: rgb(104, 247, 125);
+    color: white;
+    line-height: 1.8;
+    word-spacing: 2;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Second{
+    width: 80%;
+    padding: 60px;
+    margin: 10px;
+    background-color: rgb(104, 247, 125);
+    color: white;
+    line-height: 1.8;
+    word-spacing: 2;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.third{
+    width: 80%;
+    padding: 60px;
+    margin: 10px;
+    background-color: rgb(104, 247, 125);
+    color: white;
+    line-height: 1.8;
+    word-spacing: 2;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-size: xx-large;
+}
